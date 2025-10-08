@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="19f62c57-f047-44b1-ba53-19990797b851" name="Changes" comment="" />
+    <list default="true" id="19f62c57-f047-44b1-ba53-19990797b851" name="Changes" comment="firstcommit">
+      <change afterPath="$PROJECT_DIR$/.venv/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "berdyshart"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/berdyshart/practicum4.git",
+    "accountId": "086ce984-933b-4e3f-8bdf-b451d26e0005"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -21,7 +55,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.2.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.7.executor": "Run",
+    "Python.8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
@@ -40,6 +80,19 @@
       <option name="presentableId" value="Default" />
       <updated>1759879199612</updated>
     </task>
+    <task id="LOCAL-00001" summary="firstcommit">
+      <option name="closed" value="true" />
+      <created>1759879325193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759879325193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstcommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstcommit" />
   </component>
 </project>
